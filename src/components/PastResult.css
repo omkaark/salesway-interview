@@ -1,0 +1,17 @@
+#past-city {
+  font-size: 25px;
+}
+#past-icon {
+  margin-left: -8%;
+  width: 40px;
+  height: auto;
+}
+#past-temperature {
+  font-size: 25px;
+}
+.past-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  margin-left: 5%;
+}

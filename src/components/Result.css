@@ -1,0 +1,32 @@
+#nodisp {
+  display: none;
+}
+#result-container {
+  width: 90%;
+  margin: 10px auto;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+}
+#city {
+  margin: 10px auto 10px auto;
+  font-size: 25px;
+}
+#w-info {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+#current-icon {
+  margin-left: -8%;
+}
+#temperature {
+  font-size: 30px;
+}
+
+@media all and (max-width: 400px) {
+  #temperature {
+    font-size: 20px;
+  }
+}
