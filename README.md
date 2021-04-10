@@ -1,1 +1,0 @@
-# salesway-interview
